@@ -1,27 +1,28 @@
-![Salem Elatrash: thoughtful software, a little personality](assets/portfolio.png)
+![Salem Elatrash, software engineering and applied AI](assets/portfolio.png)
 
 # Salem Elatrash
 
-Computing graduate from **TU Dublin**, now studying **MSc Data Analytics at the National College of Ireland**. Based in Dublin, with an interest in software engineering, applied AI and interfaces people can understand.
+Computing graduate from **TU Dublin**, studying **MSc Data Analytics at the National College of Ireland**. Based in Dublin. I build desktop, browser and mobile software, with an interest in applied AI and accessible interfaces.
 
-**[Explore my portfolio](https://slooma951.github.io/portfolio/)** · [Connect on LinkedIn](https://www.linkedin.com/in/salem-elatrash/)
+**Seeking graduate software, AI and data opportunities for 2027.** Expected MSc completion: August 2027.
 
-## Selected work
+[Portfolio](https://slooma951.github.io/portfolio/) · [Public CV](https://slooma951.github.io/portfolio/downloads/Salem_Elatrash_Public_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/salem-elatrash/)
 
-| Project | What I built | Explore |
-| --- | --- | --- |
-| **Scribevo** | A published Chrome writing assistant designed around dyslexic spelling. Began as my WordFlow final-year research project. | [Public project showcase](https://github.com/Slooma951/Scribevo) · [Case study](https://slooma951.github.io/portfolio/case-studies/scribevo.html) |
-| **Assistant S** | A private Electron desktop application with an animated companion and a workspace for chat, study and everyday tasks. | [Public overview](https://slooma951.github.io/portfolio/case-studies/assistant-s.html) |
-| **DVS Note** | A TU Dublin team project combining notes, tasks, journals and mood tracking. | [Academic archive](https://github.com/Slooma951/Major-Group-Project) · [Team project overview](https://slooma951.github.io/portfolio/case-studies/dvs-note.html) |
+## Three projects to explore
 
-## How I work
+| Assistant S | Scribevo | Reunio |
+| :--- | :--- | :--- |
+| [![Assistant S room interface](https://raw.githubusercontent.com/Slooma951/Assistant-S-Showcase/main/assets/preview.png)](https://github.com/Slooma951/Assistant-S-Showcase) | [![Prepared Scribevo product example](https://raw.githubusercontent.com/Slooma951/Scribevo/main/assets/preview.png)](https://github.com/Slooma951/Scribevo) | [![Reunio shelf with sample items](https://raw.githubusercontent.com/Slooma951/Reunio/main/assets/preview.png)](https://github.com/Slooma951/Reunio) |
+| **Desktop companion.** An animated room and a workspace for study, chat and everyday tasks. | **Published writing extension.** Reviewable spelling support developed from my WordFlow final-year research. | **Lost-property prototype.** Item logging, explainable matches and checked returns for front desks. |
+| Electron · JavaScript | Python · JavaScript · FastAPI · NLP | React Native · Expo · TypeScript |
+| [View project](https://github.com/Slooma951/Assistant-S-Showcase) · [Case study](https://slooma951.github.io/portfolio/case-studies/assistant-s.html) | [View project](https://github.com/Slooma951/Scribevo) · [Try Scribevo](https://chromewebstore.google.com/detail/pfpakhloamdgoiokaljdfhpgkbanccci) | [View project](https://github.com/Slooma951/Reunio) · [Case study](https://slooma951.github.io/portfolio/case-studies/reunio.html) |
 
-I care about clear interfaces, measured results and documenting what still needs improvement. My projects connect application development with data preparation, evaluation and user-facing design. AI coding assistance has been used during later engineering work; project descriptions distinguish my research, team work and fresh checks.
+## What I bring to a team
 
-**Technologies used:** Python · JavaScript · SQL · FastAPI · PyTorch · Hugging Face Transformers · React · Electron · Git
+I connect user needs with application development, data preparation and evaluation. My WordFlow research included a 6,571-pair training dataset and four participant sessions. Later engineering work developed it into Scribevo, with the writer staying in control of each edit.
 
-## What's next
+My case studies explain the decisions, current stage and limits of each project. AI coding assistance was used in later development; research work and subsequent checks are distinguished in the project documentation.
 
-I'm interested in graduate software, AI and data opportunities for **2027**. Expected MSc completion: **August 2027**. Connect on LinkedIn for a project walkthrough or a conversation about opportunities.
+**Toolkit:** Python, JavaScript, TypeScript, SQL, FastAPI, PyTorch, React, React Native, Electron and Git.
 
-Public case studies explain the work while keeping private product source, account data and research artefacts out of the showcase repositories. Results are dated and scoped, with limitations in each case study.
+The pinned projects are public presentations. Product implementations, credentials, personal records and research artefacts stay private. For a walkthrough or graduate opportunity, [connect with me on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
