@@ -12,10 +12,10 @@ Computing graduate from **TU Dublin**, studying **MSc Data Analytics at the Nati
 
 | Assistant S | Scribevo | Reunio |
 | :--- | :--- | :--- |
-| [![Assistant S room interface](https://raw.githubusercontent.com/Slooma951/Assistant-S-Showcase/main/assets/preview.png)](https://github.com/Slooma951/Assistant-S-Showcase) | [![Prepared Scribevo product example](https://raw.githubusercontent.com/Slooma951/Scribevo/main/assets/preview.png)](https://github.com/Slooma951/Scribevo) | [![Reunio shelf with sample items](https://raw.githubusercontent.com/Slooma951/Reunio/main/assets/preview.png)](https://github.com/Slooma951/Reunio) |
+| [![Assistant S room interface](https://raw.githubusercontent.com/Slooma951/Assistant-S-Showcase/main/assets/preview.png)](https://github.com/Slooma951/Assistant-S-Showcase) | [![Prepared Scribevo product example](https://raw.githubusercontent.com/Slooma951/Scribevo/main/assets/preview.png)](https://github.com/Slooma951/Scribevo) | [![Reunio demo with sample items](https://raw.githubusercontent.com/Slooma951/Reunio/main/assets/preview.png)](https://github.com/Slooma951/Reunio) |
 | **Desktop companion.** An animated room and a workspace for study, chat and everyday tasks. | **Published writing extension.** Reviewable spelling support developed from my WordFlow final-year research. | **Lost-property prototype.** Item logging, explainable matches and checked returns for front desks. |
 | Electron · JavaScript | Python · JavaScript · FastAPI · NLP | React Native · Expo · TypeScript |
-| [View project](https://github.com/Slooma951/Assistant-S-Showcase) · [Case study](https://slooma951.github.io/portfolio/case-studies/assistant-s.html) | [View project](https://github.com/Slooma951/Scribevo) · [Try Scribevo](https://chromewebstore.google.com/detail/pfpakhloamdgoiokaljdfhpgkbanccci) | [View project](https://github.com/Slooma951/Reunio) · [Case study](https://slooma951.github.io/portfolio/case-studies/reunio.html) |
+| [View project](https://github.com/Slooma951/Assistant-S-Showcase) · [Case study](https://slooma951.github.io/portfolio/case-studies/assistant-s.html) | [View project](https://github.com/Slooma951/Scribevo) · [Try Scribevo](https://chromewebstore.google.com/detail/pfpakhloamdgoiokaljdfhpgkbanccci) | [View project](https://github.com/Slooma951/Reunio) · [Try the demo](https://slooma951.github.io/reunio-demo/) |
 
 ## What I bring to a team
 
