@@ -2,7 +2,7 @@
 
 # Salem Elatrash
 
-Computing graduate from **TU Dublin**, studying **MSc Data Analytics at the National College of Ireland**. Based in Dublin. I build desktop, browser and mobile software, with an interest in applied AI and accessible interfaces.
+Computing graduate from **TU Dublin**, studying **MSc Data Analytics at the National College of Ireland**. Based in Dublin. My main interests are Python software engineering, data analytics and applied AI. I also build desktop, browser and mobile interfaces around practical problems.
 
 **Seeking graduate software, AI and data opportunities for 2027.** Expected MSc completion: August 2027.
 
@@ -21,8 +21,18 @@ Computing graduate from **TU Dublin**, studying **MSc Data Analytics at the Nati
 
 I connect user needs with application development, data preparation and evaluation. My WordFlow research included a 6,571-pair training dataset and four participant sessions. Later engineering work developed it into Scribevo, with the writer staying in control of each edit.
 
-My case studies explain the decisions, current stage and limits of each project. AI coding assistance was used in later development; research work and subsequent checks are distinguished in the project documentation.
+## Code and evidence you can inspect
 
-**Toolkit:** Python, JavaScript, TypeScript, SQL, FastAPI, PyTorch, React, React Native, Electron and Git.
+| Project | Selected code | Evidence |
+| --- | --- | --- |
+| Scribevo | [Python edit evaluation + NumPy analysis](https://github.com/Slooma951/Scribevo/tree/main/examples) | [Output, methodology and 11 passing example tests](https://github.com/Slooma951/Scribevo/tree/main/evidence) |
+| Assistant S | [JavaScript interface-state function](https://github.com/Slooma951/Assistant-S-Showcase/tree/main/examples) | [Output, methodology and 8 passing example tests](https://github.com/Slooma951/Assistant-S-Showcase/tree/main/evidence) |
+| Reunio | [TypeScript shelf search](https://github.com/Slooma951/Reunio/tree/main/examples) | [Output, methodology and 8 passing example tests](https://github.com/Slooma951/Reunio/tree/main/evidence) |
 
-The pinned projects are public presentations. Product implementations, credentials, personal records and research artefacts stay private. For a walkthrough or graduate opportunity, [connect with me on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
+Checked 4 October 2026 on synthetic fixtures. These are tests of selected code, not complete-product audits or user outcomes. Each project explains where its example comes from and how to rerun it.
+
+I use Claude and ChatGPT during planning, implementation and review, then check outputs with tests. The documentation distinguishes my original WordFlow academic research, later AI-assisted engineering and new portfolio examples. The NumPy analysis is a new companion exercise; it is not presented as part of the original model.
+
+**Toolkit:** Python, NumPy, JavaScript, TypeScript, SQL, FastAPI, PyTorch, React, React Native, Electron and Git.
+
+The pinned projects contain selected code and evidence. Complete product implementations, credentials, personal records and research artefacts stay private. For a walkthrough or graduate opportunity, [connect with me on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
