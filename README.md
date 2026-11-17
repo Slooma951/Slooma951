@@ -6,14 +6,16 @@ Computing graduate from **TU Dublin**, studying **MSc Data Analytics at the Nati
 
 **Seeking graduate software, AI and data opportunities for 2027.** Expected MSc completion: August 2027.
 
+**Now:** building Teist, an offline AI supplier-assurance agent for banks, selected for **Citi upStart 2026**. I built its local IBM Granite 8B model setup and web interface.
+
 [Portfolio](https://slooma951.github.io/portfolio/) · [Public CV](https://slooma951.github.io/portfolio/downloads/Salem_Elatrash_Public_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/salem-elatrash/)
 
 ## Three projects to explore
 
 | Assistant S | Scribevo | Reunio |
 | :--- | :--- | :--- |
-| [![Assistant S room interface](https://raw.githubusercontent.com/Slooma951/Assistant-S-Showcase/main/assets/preview.png)](https://github.com/Slooma951/Assistant-S-Showcase) | [![Prepared Scribevo product example](https://raw.githubusercontent.com/Slooma951/Scribevo/main/assets/preview.png)](https://github.com/Slooma951/Scribevo) | [![Reunio demo with sample items](https://raw.githubusercontent.com/Slooma951/Reunio/main/assets/preview.png)](https://github.com/Slooma951/Reunio) |
-| **Personal desktop assistant.** Study, typed and spoken conversations, local memory and provider routing. The image shows the earlier room interface. | **Published writing extension.** Reviewable spelling support developed from my WordFlow final-year research. | **Lost-property prototype.** Item logging, explainable matches and checked returns for front desks. |
+| [![Assistant S home screen with its chrome voice orb](https://raw.githubusercontent.com/Slooma951/Assistant-S-Showcase/main/assets/current-home.png)](https://github.com/Slooma951/Assistant-S-Showcase) | [![Prepared Scribevo product example](https://raw.githubusercontent.com/Slooma951/Scribevo/main/assets/preview.png)](https://github.com/Slooma951/Scribevo) | [![Reunio demo with sample items](https://raw.githubusercontent.com/Slooma951/Reunio/main/assets/preview.png)](https://github.com/Slooma951/Reunio) |
+| **Personal desktop assistant.** Talk or type, run several jobs at once, study from my lectures, with local memory and routing across Claude, ChatGPT, Grok and Gemini. | **Published writing extension.** Reviewable spelling support developed from my WordFlow final-year research. | **Lost-property prototype.** Item logging, explainable matches and checked returns for front desks. |
 | Electron · JavaScript · Node.js · Three.js | Python · JavaScript · FastAPI · NLP | React Native · Expo · TypeScript |
 | [View project](https://github.com/Slooma951/Assistant-S-Showcase) · [Case study](https://slooma951.github.io/portfolio/case-studies/assistant-s.html) | [View project](https://github.com/Slooma951/Scribevo) · [Try Scribevo](https://chromewebstore.google.com/detail/pfpakhloamdgoiokaljdfhpgkbanccci) | [View project](https://github.com/Slooma951/Reunio) · [Try the demo](https://slooma951.github.io/reunio-demo/) |
 
