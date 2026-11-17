@@ -13,8 +13,8 @@ Computing graduate from **TU Dublin**, studying **MSc Data Analytics at the Nati
 | Assistant S | Scribevo | Reunio |
 | :--- | :--- | :--- |
 | [![Assistant S room interface](https://raw.githubusercontent.com/Slooma951/Assistant-S-Showcase/main/assets/preview.png)](https://github.com/Slooma951/Assistant-S-Showcase) | [![Prepared Scribevo product example](https://raw.githubusercontent.com/Slooma951/Scribevo/main/assets/preview.png)](https://github.com/Slooma951/Scribevo) | [![Reunio demo with sample items](https://raw.githubusercontent.com/Slooma951/Reunio/main/assets/preview.png)](https://github.com/Slooma951/Reunio) |
-| **Desktop companion.** An animated room and a workspace for study, chat and everyday tasks. | **Published writing extension.** Reviewable spelling support developed from my WordFlow final-year research. | **Lost-property prototype.** Item logging, explainable matches and checked returns for front desks. |
-| Electron · JavaScript | Python · JavaScript · FastAPI · NLP | React Native · Expo · TypeScript |
+| **Personal desktop assistant.** Study, typed and spoken conversations, local memory and provider routing. The image shows the earlier room interface. | **Published writing extension.** Reviewable spelling support developed from my WordFlow final-year research. | **Lost-property prototype.** Item logging, explainable matches and checked returns for front desks. |
+| Electron · JavaScript · Node.js · Three.js | Python · JavaScript · FastAPI · NLP | React Native · Expo · TypeScript |
 | [View project](https://github.com/Slooma951/Assistant-S-Showcase) · [Case study](https://slooma951.github.io/portfolio/case-studies/assistant-s.html) | [View project](https://github.com/Slooma951/Scribevo) · [Try Scribevo](https://chromewebstore.google.com/detail/pfpakhloamdgoiokaljdfhpgkbanccci) | [View project](https://github.com/Slooma951/Reunio) · [Try the demo](https://slooma951.github.io/reunio-demo/) |
 
 ## What I bring to a team
@@ -34,5 +34,22 @@ Checked 4 October 2026 on synthetic fixtures. These are tests of selected code, 
 I use Claude and ChatGPT during planning, implementation and review, then check outputs with tests. The documentation distinguishes my original WordFlow academic research, later AI-assisted engineering and new portfolio examples. The NumPy analysis is a new companion exercise; it is not presented as part of the original model.
 
 **Toolkit:** Python, NumPy, JavaScript, TypeScript, SQL, FastAPI, PyTorch, React, React Native, Electron and Git.
+
+## How to explore my repositories
+
+Start with the three pinned case studies above. They explain the problem, implementation, selected code and evidence limits. Complete product source stays private; public demonstrations and documentation have their own repositories.
+
+| Public repository | Its role |
+| --- | --- |
+| [portfolio](https://github.com/Slooma951/portfolio) | My Portfolio Website, education, experience and project case studies |
+| [Assistant-S-Showcase](https://github.com/Slooma951/Assistant-S-Showcase) | Assistant S's current architecture, development story and selected JavaScript example |
+| [Scribevo](https://github.com/Slooma951/Scribevo) | Writing-support case study and selected Python evaluation examples |
+| [Reunio](https://github.com/Slooma951/Reunio) | Lost-property case study and selected TypeScript example |
+| [reunio-demo](https://github.com/Slooma951/reunio-demo) | Compiled sample-data demo, separate from the development source |
+| [Major-Group-Project](https://github.com/Slooma951/Major-Group-Project) | Archived DVS Note team project, with team credit and reproduction limits |
+
+`projectweb` preserves older published Scribevo support/privacy links. My `jev-codex-token-saver` repository is a fork of James Cressler's plugin, not an original product of mine.
+
+**Recent learning:** DataCamp, Introduction to Python, completed 15 November 2026. This is a course completion, rather than a claim of an advanced professional certification.
 
 The pinned projects contain selected code and evidence. Complete product implementations, credentials, personal records and research artefacts stay private. For a walkthrough or graduate opportunity, [connect with me on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
